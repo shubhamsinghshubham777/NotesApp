@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="dialog_delete_btn_txt">Delete</string>
+    <string name="dialog_cancel_btn_txt">Cancel</string>
+    <string name="dialog_title">Confirm deletion?</string>
+    <string name="dialog_body_txt">Are you sure you want to delete all notes?\n\n Note: This action is irreversible!</string>
+    <string name="note_dialog_body_txt">Are you sure you want to delete this note?\n\n Note: This action is irreversible!</string>
+</resources>
